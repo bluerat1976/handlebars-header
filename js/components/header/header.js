@@ -1,4 +1,4 @@
-import headerTemplate from './templates/header.hbs';
+import headerTemplate from './js/templates/header.hbs';
 import header from './headerData';
 import prepareHeader from './headerHelpers';
 
